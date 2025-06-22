@@ -2,7 +2,7 @@
 
 🎓 **Electronics and Communication Engineering (ECE) Student** <br>
 📍 PSNA College of Engineering and Technology | CGPA: 8.3 (2021–2025) <br>
-💡 Passionate about **Embedded Systems**, **IoT**, and **AI Applications** <br>
+💡 Passionate about **Embedded Systems**, **IoT**, **UI/UX** and **AI Applications** <br>
 
 ---
 
